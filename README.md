@@ -3,7 +3,7 @@
 
 Html and Css
 
-![Alt Text](gif/shopping_card.gif)
+![Alt Text](watereffect.gif)
 
 [https://www.linkedin.com/in/tahaozturk07/] (Linkedin)
 
